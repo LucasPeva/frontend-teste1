@@ -6,4 +6,4 @@
 
 Página simples usando ReactJS para treinar conceitos.
 
-Usa React para criar componentes reutilizáveis, React Router para organização de páginas, Formik e Yup para validação de formulário e [Bootstrap](https://getbootstrap.com/) para estilizar componentes.
+Usa [React](https://react.dev/) para criar componentes reutilizáveis, [React Router](https://reactrouter.com/) para organização de páginas, [Formik](https://formik.org/) e Yup para validação de formulário e [Bootstrap](https://getbootstrap.com/) para estilizar componentes.
